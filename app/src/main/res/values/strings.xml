@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Headlines</string>
+    <string name="error_loading_news">Unable to load news.</string>
+    <string name="no_news_available">No news available</string>
+    <string name="source_date">%1$s | %2$s</string>
+    <string name="not_available">Not available</string>
+    <string name="read_full_article">Read Full Article</string>
+</resources>
